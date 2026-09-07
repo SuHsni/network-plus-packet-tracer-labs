@@ -38,16 +38,6 @@ Each lab contains:
 - Connectivity tests
 - Expected results
 
-## Labs
-
-| Lab | Topic            | Status  |
-| --- | ---------------- | ------- |
-| 01  | Basic LAN        | Planned |
-| 02  | Static Routing   | Planned |
-| 03  | DHCP             | Planned |
-| 04  | VLANs            | Planned |
-| 05  | DNS & Web Server | Planned |
-
 ## Learning Goals
 
 This repository is a hands-on practice project for understanding fundamental networking concepts and developing practical troubleshooting skills.
